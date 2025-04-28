@@ -1,0 +1,2 @@
+SMPL-X V1.1 dataset uploaded to hugginface for ease of use in cloud cluster:
+https://huggingface.co/datasets/Shivamkak/smplx
